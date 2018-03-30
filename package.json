@@ -6,6 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/am-modus/adp-data-gen.git"
+  },
   "author": "Asim Mittal",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/am-modus/adp-data-gen/issues"
+  },
+  "homepage": "https://github.com/am-modus/adp-data-gen#readme",
+  "devDependencies": {
+    "exceljs": "^1.1.0"
+  }
 }
